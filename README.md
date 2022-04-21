@@ -1,6 +1,8 @@
 # Python plots
 
-This repo gives some useful examples to plot graphs using common python packages.
+This repo gives some useful examples to plot scientific graphs using common python packages.
+
+## matplotlib.pyplot package
 
 In the directory [matplotlib_pyplots](matplotlib_plots), you can find:
 
